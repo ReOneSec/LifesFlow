@@ -23,8 +23,8 @@ Lifesflow is a comprehensive blood bank management system that connects blood do
 ### Additional Features
 - **Admin Dashboard**: Comprehensive management interface
 #### Admin Credentials 
-##### Email:- admin@lifesflow.org
-##### Password:- Admin@123
+** Email:- admin@lifesflow.org
+** Password:- Admin@123
 - **Blog & News**: Stay updated with latest information
 - **Multi-language Support**: Accessibility for diverse users
 - **Responsive Design**: Works seamlessly on all devices
