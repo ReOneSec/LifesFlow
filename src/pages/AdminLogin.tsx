@@ -14,7 +14,7 @@ function AdminLogin() {
     setLoading(true);
 
     try {
-      if (email === 'lifesflow@proton.me' && password === 'Sa@%1w2w') {
+      if (email === 'admin@lifesflow.org' && password === 'Admin@123') {
         localStorage.setItem('adminEmail', email);
         toast.success('Admin login successful!');
         navigate('/admin/dashboard');
